@@ -1,0 +1,148 @@
+{
+  "persons": {
+    "280eba66-e8a0-4e1f-b55e-aae7b4d29b9d": {
+      "id": "280eba66-e8a0-4e1f-b55e-aae7b4d29b9d",
+      "name": "Robert Smith",
+      "gender": "Male",
+      "birth_date": "1935-03-12",
+      "death_date": "2010-08-20",
+      "notes": "Family patriarch"
+    },
+    "cfe3b7fb-864d-49c9-8806-ba076e290387": {
+      "id": "cfe3b7fb-864d-49c9-8806-ba076e290387",
+      "name": "Margaret Smith",
+      "gender": "Female",
+      "birth_date": "1938-07-25",
+      "death_date": "2015-04-10",
+      "notes": "Family matriarch"
+    },
+    "93007b4e-84d4-4f3d-9673-156f3fa61378": {
+      "id": "93007b4e-84d4-4f3d-9673-156f3fa61378",
+      "name": "James Smith",
+      "gender": "Male",
+      "birth_date": "1960-11-05",
+      "death_date": "",
+      "notes": "Eldest son"
+    },
+    "3ed9bbdd-a368-4dfa-8f4a-5ad0a3ac06ca": {
+      "id": "3ed9bbdd-a368-4dfa-8f4a-5ad0a3ac06ca",
+      "name": "Linda Smith",
+      "gender": "Female",
+      "birth_date": "1962-02-18",
+      "death_date": "",
+      "notes": "née Johnson"
+    },
+    "14b9bd59-971f-411d-b6d4-0b42bcb109b5": {
+      "id": "14b9bd59-971f-411d-b6d4-0b42bcb109b5",
+      "name": "Thomas Smith",
+      "gender": "Male",
+      "birth_date": "1963-06-30",
+      "death_date": "",
+      "notes": "Younger son"
+    },
+    "81ce9b8a-4980-4432-b002-8268988c66df": {
+      "id": "81ce9b8a-4980-4432-b002-8268988c66df",
+      "name": "Patricia Smith",
+      "gender": "Female",
+      "birth_date": "1965-09-14",
+      "death_date": "",
+      "notes": "née Williams"
+    },
+    "06785d39-ab9d-496d-aa36-9cddd4737e94": {
+      "id": "06785d39-ab9d-496d-aa36-9cddd4737e94",
+      "name": "Emily Smith",
+      "gender": "Female",
+      "birth_date": "1988-04-22",
+      "death_date": "",
+      "notes": "Granddaughter"
+    },
+    "455fabc5-b28d-4fbb-b382-5dd3ca085810": {
+      "id": "455fabc5-b28d-4fbb-b382-5dd3ca085810",
+      "name": "Michael Smith",
+      "gender": "Male",
+      "birth_date": "1991-12-03",
+      "death_date": "",
+      "notes": "Grandson"
+    },
+    "8438dfd5-6c46-4337-9da8-95ec9e1406bf": {
+      "id": "8438dfd5-6c46-4337-9da8-95ec9e1406bf",
+      "name": "Sarah Smith",
+      "gender": "Female",
+      "birth_date": "1990-08-17",
+      "death_date": "",
+      "notes": "Niece"
+    },
+    "13546c2b-eb91-4f6b-96d4-b1d551c4818f": {
+      "id": "13546c2b-eb91-4f6b-96d4-b1d551c4818f",
+      "name": "David Smith",
+      "gender": "Male",
+      "birth_date": "1993-01-28",
+      "death_date": "",
+      "notes": "Nephew"
+    }
+  },
+  "parent_child": [
+    [
+      "280eba66-e8a0-4e1f-b55e-aae7b4d29b9d",
+      "93007b4e-84d4-4f3d-9673-156f3fa61378"
+    ],
+    [
+      "cfe3b7fb-864d-49c9-8806-ba076e290387",
+      "93007b4e-84d4-4f3d-9673-156f3fa61378"
+    ],
+    [
+      "280eba66-e8a0-4e1f-b55e-aae7b4d29b9d",
+      "14b9bd59-971f-411d-b6d4-0b42bcb109b5"
+    ],
+    [
+      "cfe3b7fb-864d-49c9-8806-ba076e290387",
+      "14b9bd59-971f-411d-b6d4-0b42bcb109b5"
+    ],
+    [
+      "93007b4e-84d4-4f3d-9673-156f3fa61378",
+      "06785d39-ab9d-496d-aa36-9cddd4737e94"
+    ],
+    [
+      "3ed9bbdd-a368-4dfa-8f4a-5ad0a3ac06ca",
+      "06785d39-ab9d-496d-aa36-9cddd4737e94"
+    ],
+    [
+      "93007b4e-84d4-4f3d-9673-156f3fa61378",
+      "455fabc5-b28d-4fbb-b382-5dd3ca085810"
+    ],
+    [
+      "3ed9bbdd-a368-4dfa-8f4a-5ad0a3ac06ca",
+      "455fabc5-b28d-4fbb-b382-5dd3ca085810"
+    ],
+    [
+      "14b9bd59-971f-411d-b6d4-0b42bcb109b5",
+      "8438dfd5-6c46-4337-9da8-95ec9e1406bf"
+    ],
+    [
+      "81ce9b8a-4980-4432-b002-8268988c66df",
+      "8438dfd5-6c46-4337-9da8-95ec9e1406bf"
+    ],
+    [
+      "14b9bd59-971f-411d-b6d4-0b42bcb109b5",
+      "13546c2b-eb91-4f6b-96d4-b1d551c4818f"
+    ],
+    [
+      "81ce9b8a-4980-4432-b002-8268988c66df",
+      "13546c2b-eb91-4f6b-96d4-b1d551c4818f"
+    ]
+  ],
+  "spouses": [
+    [
+      "280eba66-e8a0-4e1f-b55e-aae7b4d29b9d",
+      "cfe3b7fb-864d-49c9-8806-ba076e290387"
+    ],
+    [
+      "3ed9bbdd-a368-4dfa-8f4a-5ad0a3ac06ca",
+      "93007b4e-84d4-4f3d-9673-156f3fa61378"
+    ],
+    [
+      "14b9bd59-971f-411d-b6d4-0b42bcb109b5",
+      "81ce9b8a-4980-4432-b002-8268988c66df"
+    ]
+  ]
+}
